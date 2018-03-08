@@ -4,8 +4,10 @@ Thw reinbow
 porpole
 pink
 green
+yellow
 orange
 blue
+
 
 
 these are color of the rainbow
